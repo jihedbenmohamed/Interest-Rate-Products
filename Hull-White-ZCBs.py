@@ -1,14 +1,3 @@
-#%%
-"""
-Created on July 12 2021
-Hull-White Model, Simulation of the Model
-
-This code is purely educational and comes from "Financial Engineering" course by L.A. Grzelak
-The course is based on the book “Mathematical Modeling and Computation
-in Finance: With Exercises and Python and MATLAB Computer Codes”,
-by C.W. Oosterlee and L.A. Grzelak, World Scientific Publishing Europe Ltd, 2019.
-@author: Lech A. Grzelak
-"""
 
 import numpy as np
 import matplotlib.pyplot as plt
